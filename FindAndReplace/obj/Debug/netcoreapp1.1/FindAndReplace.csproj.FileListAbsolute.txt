@@ -1,0 +1,8 @@
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\bin\Debug\netcoreapp1.1\FindAndReplace.deps.json
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\bin\Debug\netcoreapp1.1\FindAndReplace.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\bin\Debug\netcoreapp1.1\FindAndReplace.pdb
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\obj\Debug\netcoreapp1.1\FindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\obj\Debug\netcoreapp1.1\FindAndReplace.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\obj\Debug\netcoreapp1.1\FindAndReplace.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\obj\Debug\netcoreapp1.1\FindAndReplace.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace\obj\Debug\netcoreapp1.1\FindAndReplace.pdb

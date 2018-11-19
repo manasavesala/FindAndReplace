@@ -1,0 +1,15 @@
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\obj\Debug\netcoreapp1.1\FindAndReplace.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\obj\Debug\netcoreapp1.1\FindAndReplace.Tests.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\obj\Debug\netcoreapp1.1\FindAndReplace.Tests.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.Tests.deps.json
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.Tests.runtimeconfig.json
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.Tests.runtimeconfig.dev.json
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.Tests.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.Tests.pdb
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\bin\Debug\netcoreapp1.1\FindAndReplace.pdb
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\obj\Debug\netcoreapp1.1\FindAndReplace.Tests.dll
+C:\Users\Murali Medisetty\Desktop\FindAndReplace.Solutions\FindAndReplace.Tests\obj\Debug\netcoreapp1.1\FindAndReplace.Tests.pdb
